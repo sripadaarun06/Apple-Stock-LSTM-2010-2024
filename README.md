@@ -23,3 +23,7 @@ pip install pandas==2.2.2 numpy==1.26.4 matplotlib==3.8.4 scikit-learn==1.4.2 te
 ## ▶️ How to Run
 
 - `python applestock.py`
+
+## Output
+
+<img width="1400" height="500" alt="Image" src="https://github.com/user-attachments/assets/ab4f4c56-ecd4-41ea-9fc3-60f3aa4cb010" />
