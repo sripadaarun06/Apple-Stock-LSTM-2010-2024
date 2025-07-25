@@ -17,7 +17,6 @@ This project predicts Apple stock closing prices using an LSTM model in TensorFl
 
 ## 🧪 Requirements
 
-```bash
 pip install pandas==2.2.2 numpy==1.26.4 matplotlib==3.8.4 scikit-learn==1.4.2 tensorflow==2.16.1
 
 ## ▶️ How to Run
