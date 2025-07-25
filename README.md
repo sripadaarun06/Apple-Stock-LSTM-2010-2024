@@ -26,3 +26,5 @@ pip install pandas==2.2.2 numpy==1.26.4 matplotlib==3.8.4 scikit-learn==1.4.2 te
 ## Output
 
 <img width="1400" height="500" alt="Image" src="https://github.com/user-attachments/assets/ab4f4c56-ecd4-41ea-9fc3-60f3aa4cb010" />
+
+<img width="1200" height="600" alt="Image" src="https://github.com/user-attachments/assets/ef016357-2780-4788-bf12-2fe5db1854b3" />
